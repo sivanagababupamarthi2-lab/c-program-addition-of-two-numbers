@@ -2,7 +2,7 @@
 addition
 #include <stdio.h>
 
-int main()
+void main()
 {
     int a, b, sum;
 
@@ -13,5 +13,5 @@ int main()
 
     printf("Sum = %d", sum);
 
-    return 0;
+    
 }
